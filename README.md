@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+![altalkam_logo](media/atalkam_logo.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# <center>Altalkam</center>
 
-## Available Scripts
+A simple Chat web app in Reactjs. This is a small project I started to learn Reactjs features. Features like: [Context API](https://reactjs.org/docs/context.html), [Redux](https://redux.js.org/), [Redux-Saga](https://redux-saga.io/), [Redux-Thunk](https://redux.js.org/docs/api/thunk.html), [Redux-Logger](https://redux-logger.js.org/), [Routing with React Router](https://reacttraining.com/react-router/web/guides/quick-start), [React-Router-Dom](https://reacttraining.com/react-router-dom/web/guides/quick-start), [React-Transition-Group](https://reactcommunity.org/react-transition-group/) and [React-Bootstrap](https://react-bootstrap.github.io/react-bootstrap/).
 
-In the project directory, you can run:
+### Tools used
 
-### `npm start`
+-   [Reactjs](https://reactjs.org/)
+-   [Nodejs](https://nodejs.org/)
+-   [Tailwindcss](https://tailwindcss.com/)
+-   [Nextjs](https://nextjs.org/)
+-   [Bootstrap](https://getbootstrap.com/)
+-   [Figma](https://www.figma.com)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+-   [Context API](https://reactjs.org/docs/context.html)
+-   [Redux](https://redux.js.org/)
+-   [Redux-Saga](https://redux-saga.io/)
+-   [Redux-Thunk](https://redux.js.org/docs/api/thunk.html)
+-   [Redux-Logger](https://redux-logger.js.org/)
+-   [Routing with React Router](https://reacttraining.com/react-router/web/guides/quick-start)
+-   [React-Router-Dom](https://reacttraining.com/react-router-dom/web/guides/quick-start)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Designs
+#### User Interface :
+![Cahrtboard Design](media/Chat_Dashboard.png)
 
-### `npm run build`
+## To Run Project Locally
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Considering that [npm]() and [node]() installed.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+    # Clonning project locally
+    git clone https://github.com/yokwejuste/atalkam.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+    # Change directory in to the atalkam directory
+    cd atalakm
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    # install all project dependencies
+    npm install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+    # run project locally at the address, http://localhost:3000
+    npm run start
+```
 
-## Learn More
+## To contribute to [Atalkam](https://github.com/yokwejuste/atalkam) :
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+-   Fork this repository [🍴here](https://github.com/yokwejuste/atalkam/fork)
+-   Clone it using your own remote, i.e. https://github.com/YourUsername/atalkam
+-   Edit code make commits, push and pull request
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributors:
+- [Steve Yonkeu](https://github.com/yokwejuste): Repository 
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Project under the [GNU License](https://github.com/yokwejuste/atalkam/blob/master/LICENSE)
