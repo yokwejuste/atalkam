@@ -56,7 +56,7 @@ Considering that [npm]() and [node]() installed.
 -   Edit code make commits, push and pull request
 
 ## Contributors:
-- [Steve Yonkeu](https://github.com/yokwejuste): Repository 
+- [Steve Yonkeu](https://github.com/yokwejuste): Repository Maintainer
 
 
 Project under the [GNU License](https://github.com/yokwejuste/atalkam/blob/master/LICENSE)
