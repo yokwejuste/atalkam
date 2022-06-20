@@ -22,6 +22,16 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Environment variables
+.env
+.venv
+.env.development
+.env.test
 
 # Generated files from VCS
 .history/
+
+
+# Generated files from IDEs and Text Editors
+.idea/
+.vscode
