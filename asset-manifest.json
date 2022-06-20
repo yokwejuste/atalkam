@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.061774d1.css",
-    "main.js": "/static/js/main.a0d68abd.js",
-    "static/js/787.2eb047f1.chunk.js": "/static/js/787.2eb047f1.chunk.js",
-    "static/media/user.jpg": "/static/media/user.8140328fbbf997c0d6d3.jpg",
-    "index.html": "/index.html",
-    "main.061774d1.css.map": "/static/css/main.061774d1.css.map",
-    "main.a0d68abd.js.map": "/static/js/main.a0d68abd.js.map",
-    "787.2eb047f1.chunk.js.map": "/static/js/787.2eb047f1.chunk.js.map"
+    "main.css": "/atalkam/static/css/main.061774d1.css",
+    "main.js": "/atalkam/static/js/main.ed47e334.js",
+    "static/js/787.2eb047f1.chunk.js": "/atalkam/static/js/787.2eb047f1.chunk.js",
+    "static/media/user.jpg": "/atalkam/static/media/user.8140328fbbf997c0d6d3.jpg",
+    "index.html": "/atalkam/index.html",
+    "main.061774d1.css.map": "/atalkam/static/css/main.061774d1.css.map",
+    "main.ed47e334.js.map": "/atalkam/static/js/main.ed47e334.js.map",
+    "787.2eb047f1.chunk.js.map": "/atalkam/static/js/787.2eb047f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.061774d1.css",
-    "static/js/main.a0d68abd.js"
+    "static/js/main.ed47e334.js"
   ]
 }
