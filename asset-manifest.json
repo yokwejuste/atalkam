@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/atalkam/static/css/main.061774d1.css",
-    "main.js": "/atalkam/static/js/main.ed47e334.js",
+    "main.css": "/atalkam/static/css/main.5b0aa85d.css",
+    "main.js": "/atalkam/static/js/main.826aed8c.js",
     "static/js/787.2eb047f1.chunk.js": "/atalkam/static/js/787.2eb047f1.chunk.js",
     "static/media/user.jpg": "/atalkam/static/media/user.8140328fbbf997c0d6d3.jpg",
     "index.html": "/atalkam/index.html",
-    "main.061774d1.css.map": "/atalkam/static/css/main.061774d1.css.map",
-    "main.ed47e334.js.map": "/atalkam/static/js/main.ed47e334.js.map",
+    "main.5b0aa85d.css.map": "/atalkam/static/css/main.5b0aa85d.css.map",
+    "main.826aed8c.js.map": "/atalkam/static/js/main.826aed8c.js.map",
     "787.2eb047f1.chunk.js.map": "/atalkam/static/js/787.2eb047f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.061774d1.css",
-    "static/js/main.ed47e334.js"
+    "static/css/main.5b0aa85d.css",
+    "static/js/main.826aed8c.js"
   ]
 }
