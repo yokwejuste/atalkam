@@ -46,7 +46,10 @@ function App() {
                                  src={userImage} width={86} height={60} alt=""/>
                         </div>
                     </div>
-                    <div className="text-gray-900 text-center text-[15px] mt-1">Steve Yonkeu</div>
+                    <div className="text-gray-500 text-center mt-1 text-[16px]
+                    font-bold uppercase">
+                        Steve Yonkeu
+                    </div>
                     <div
                         className={"p-2.5 mt-3 flex items-center ml-4 text-gray-400" +
                             " rounded-md px-4 duration-300 cursor-pointer"}>
